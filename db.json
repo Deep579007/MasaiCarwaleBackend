@@ -32,5 +32,13 @@
       "Price": 500000,
       "image":"https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?cs=srgb&dl=automobile-automotive-car-1335077.jpg&fm=jpg"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Dapzz",
+      "email": "deepak@gmail.com",
+      "password": "1234"
+    }
   ]
 }
