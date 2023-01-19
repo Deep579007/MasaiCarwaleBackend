@@ -1,42 +1,8 @@
 {
-  "cars": [
+  
+  "signup": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000,
-      "image":"https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?cs=srgb&dl=automobile-automotive-car-1335077.jpg&fm=jpg"
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-      "type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000,
-      "image":"https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?cs=srgb&dl=automobile-automotive-car-1335077.jpg&fm=jpg"
-    }
-  ],
-"wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000,
-      "image":"https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?cs=srgb&dl=automobile-automotive-car-1335077.jpg&fm=jpg"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "username": "Dapzz",
       "email": "deepak@gmail.com",
       "password": "1234"
     }
@@ -47,27 +13,7 @@
       "email": "deepak@gmail.com",
       "password": "1234"
     }
-  ],
-  "tasks": [
-      {
-          "task":""
-      }
-  ],
-  "dogs": [
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    }
   ]
+  
 
 }
